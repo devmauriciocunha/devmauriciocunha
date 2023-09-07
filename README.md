@@ -9,8 +9,8 @@
 [![Instagrem](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauricio.cunha_/)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmauriciocunha&show_icons=true&theme=dracula&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmauriciocunha&hide=javascript,html&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devmauriciocunha&show_icons=true&theme=dracula&hide_border=true" />
 </div>
 
 
