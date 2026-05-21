@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Maurício Nascimento Cunha 👋🏼
 
-👩‍💻 Estagiário em Desenvolvimento RPA <a href="https://www.linkedin.com/company/grupounimedsc/mycompany/verification/">@Unimed</a><br>
+👩‍💻 Estagiário em Desenvolvimento
 🎓 Estudante de Ciência da Computação<br>
 🌐 Apaixonado por tecnologia, desenvolvimento de automação de processos e desenvolvimento web<br>
 💡 Gosto de um bom desafio
