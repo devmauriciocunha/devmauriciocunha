@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Maurício Nascimento Cunha 👋🏼
 
-👩‍💻 Estagiário em Desenvolvimento
+👩‍💻 Estagiário em Desenvolvimento<br>
 🎓 Estudante de Ciência da Computação<br>
 🌐 Apaixonado por tecnologia, desenvolvimento de automação de processos e desenvolvimento web<br>
 💡 Gosto de um bom desafio
