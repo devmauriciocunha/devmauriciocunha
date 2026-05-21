@@ -14,14 +14,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauricio.cunha_/)
 
 ---
-
 ## 📊 Estatísticas GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmauriciocunha&show_icons=true&theme=dracula&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devmauriciocunha&show_icons=true&theme=dracula"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmauriciocunha&layout=compact&theme=dracula&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devmauriciocunha&layout=compact&theme=dracula"/>
 
 </div>
 
