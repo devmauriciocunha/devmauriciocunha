@@ -49,5 +49,5 @@
 ⭐ “Tecnologia é transformar problemas em soluções.”
 
 ---
-## 🐍 Animação
+## 🐍 
 ![Snake animation](https://github.com/devmauriciocunha/devmauriciocunha/blob/output/github-contribution-grid-snake.svg)
